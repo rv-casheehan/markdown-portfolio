@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* ice cream
+* brownies
+* cookies
